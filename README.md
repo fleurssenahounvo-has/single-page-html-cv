@@ -12,7 +12,7 @@ Projet réalisé dans le cadre du parcours **Single-Page HTML CV** de Roadmap.sh
 3. Ouvrez `index.html` dans un navigateur web.
 
 ## Personnalisation avant publication
-Remplacez les informations indiquées comme « à compléter » ou « Votre ... » :
+Remplacez les informations indiquées  :
 - nom complet ;
 - ville et pays ;
 - téléphone et adresse e-mail ;
@@ -26,3 +26,6 @@ Ajoutez ici l'URL de votre projet Roadmap.sh.
 
 ## Technologies
 - HTML5
+## URL du projet Roadmap.sh
+
+https://roadmap.sh/projects/single-page-cv
